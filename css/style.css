@@ -1,0 +1,8 @@
+.flag {
+  min-height: 7.5rem;
+}
+
+.flag p {
+  font-size: .8rem;
+  color: #777;
+}
